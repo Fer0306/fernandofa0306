@@ -21,12 +21,17 @@ An advanced CSRF mitigation strategy based on **randomized header dispersion and
 ## 🔐 Aportes Destacados
 
 | Proyecto | Descripción | Enlace |
-|----------|-------------|--------|
-| 🧪 [BotellaControl](https://medium.com/@fernandofa0306/botellacontrol-inventario-inteligente-de-licores-con-ia-8fc8caabac18) | Inventario inteligente de licores con IA y visión por computadora | ✅ |
-| 🧠 [Tarea Inteligente](https://github.com/Fercho0306/TareaInteligente) | Tareas asincrónicas con reintentos automáticos y resiliencia adaptativa | ✅ |
-| 🔁 [Objeto Subprocesos Inteligente](https://github.com/Fercho0306/Objeto-Subprocesos-Inteligente) | Gestión de subprocesos secuenciales autocorrectivos | ✅ |
-| 🧩 [Gestor Inteligente con Flujo Controlado](https://github.com/Fercho0306/Gestor-Inteligente) | Tareas dependientes dinámicas con control de flujo tipo grafo | ✅ |
+|---------|-------------|--------|
+| 🥃 [BotellaControl](https://medium.com/@fernandofa0306/botellacontrol-inventario-inteligente-de-licores-con-ia-8fc8caabac18) | Inventario inteligente de licores con IA | ✅
+| 🧠 [Tarea Inteligente](https://github.com/Fercho0306/TareaInteligente) | Tareas asincrónicas con reintentos automáticos y resiliencia adaptativa | ✅
+| 🔁 [Objeto Subprocesos Inteligente](https://github.com/Fercho0306/Objeto-Subprocesos-Inteligente) | Gestión de subprocesos secuenciales autocorrectivos | ✅
+| 🧩 [Gestor Inteligente con Flujo Controlado](https://github.com/Fercho0306/Gestor-Inteligente) | Tareas dependientes dinámicas con control de flujo tipo grafo | ✅
 
+---
+
+📖 ¿Quieres leer más sobre estos aportes?
+
+👉 Visita mi blog en [Medium](https://medium.com/@fernandofa0306) para conocer la herramienta.
 
 ---
 
