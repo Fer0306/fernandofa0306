@@ -22,7 +22,6 @@ An advanced CSRF mitigation strategy based on **randomized header dispersion and
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| 🧩 [BotellaControl](https://medium.com/@fernandofa0306/botellacontrol-inventario-inteligente-de-licores-con-ia-8fc8caabac18) | Inventario inteligente de licores con IA | ✅ |
 | 🧠 [Tarea Inteligente](https://github.com/Fercho0306/TareaInteligente) | Tareas asincrónicas con reintentos automáticos y resiliencia adaptativa | ✅ |
 | 🔁 [Objeto Subprocesos Inteligente](https://github.com/Fercho0306/Objeto-Subprocesos-Inteligente) | Gestión de subprocesos secuenciales autocorrectivos | ✅ |
 | 🧩 [Gestor Inteligente con Flujo Controlado](https://github.com/Fercho0306/Gestor-Inteligente) | Tareas dependientes dinámicas con control de flujo tipo grafo | ✅ |
