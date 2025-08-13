@@ -9,12 +9,15 @@ I'm currently focused on evolving CSRF protection strategies for modern, statele
 
 ## 🧠 Featured Work
 
-### 🔒 CSRF Defense Architecture: “Controlled Chaos”
-An advanced CSRF mitigation strategy based on **randomized header dispersion and multi-layered token validation**.
-- 🔹 Proposed to the OWASP Foundation (2025)
-- 🔹 Designed for JWT-based, sessionless platforms
-- 🔹 Obfuscates token patterns to defeat automation, sniffing & replay
-- 📖 [Read the full publication on Medium](https://medium.com/@fernandofa0306/advanced-csrf-mitigation-strategy-randomized-header-channel-using-pattern-dispersion-20d54b1d4c6e)
+### 🔒 CSRF Defense Architecture
+1.- Advanced CSRF Mitigation Strategy: **Randomized Header Channel using Pattern Dispersion**.
+  - 🔹 Proposed to the OWASP Foundation (2025)
+  - 🔹 Designed for JWT-based, sessionless platforms
+  - 🔹 Obfuscates token patterns to defeat automation, sniffing & replay
+  - 📖 [Read the full publication on Medium](https://medium.com/@fernandofa0306/advanced-csrf-mitigation-strategy-randomized-header-channel-using-pattern-dispersion-20d54b1d4c6e)
+
+2.- Advanced CSRF Mitigation Strategy: **Controlled Chaos: Multi-Layered CSRF Defense Using Dynamic Header Dispersion**.
+  - 📖 [Read the full publication on Medium] (https://medium.com/@fernandofa0306/controlled-chaos-multi-layered-csrf-defense-using-dynamic-header-dispersion-a14926288207)
 
 ---
 
