@@ -1,13 +1,15 @@
-# 👋 Hi, I'm Fernando Flores Alvarado
+# 👋 Hola, soy Fernando Flores Alvarado
 
-### 🔐 Full Stack Developer | AI Integration | Cybersecurity Autodidact
+### 🔐 Seguridad y comunicación de sistemas  
+### OWASP Project Leader – Advanced CSRF Mitigation Strategy  
+### IA aplicada y arquitecturas resilientes | Creador de BotellaControl
 
-I design secure, intelligent web architectures based on real-world needs.  
-I'm currently focused on evolving CSRF protection strategies for modern, stateless apps using JWT.
+Diseño arquitecturas web seguras e inteligentes basadas en necesidades reales.  
+Mi enfoque actual está en la **resiliencia de las comunicaciones**, no solo en la detección, especialmente en plataformas modernas, sin estado y basadas en JWT.
 
 ---
 
-## 🧠 Featured Work
+## 🧠 Trabajo destacado en seguridad y resiliencia
 
 ### 🔒 CSRF Defense Architecture
 1.- Advanced CSRF Mitigation Strategy: **Randomized Header Channel using Pattern Dispersion**.
